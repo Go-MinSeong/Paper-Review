@@ -18,4 +18,6 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 11 | Inception | CV | [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) | 2023.03 | X:AI 4기 Basic |
 | 12 | YOLO | CV | [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) | 2023.04 | X:AI 4기 Basic |
 | 13 | GPT-1 | NLP | [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2023.04 | X:AI 4기 Basic |
+| 14 | CDFI | CV | [CDFI: Compression-Driven Network Design for Frame Interpolation](https://arxiv.org/abs/2103.10559) | 2023.04 | Capstone class |
+| 15 | AutoEncoder | - | 오토인코더의 모든 것 및 기타 자료 참고 | 2023.04 | X:AI 4기 Basic |
 
