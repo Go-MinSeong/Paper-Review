@@ -20,4 +20,6 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 13 | GPT-1 | NLP | [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) | 2023.04 | X:AI 4기 Basic |
 | 14 | CDFI | CV | [CDFI: Compression-Driven Network Design for Frame Interpolation](https://arxiv.org/abs/2103.10559) | 2023.04 | Capstone class |
 | 15 | AutoEncoder | - | 오토인코더의 모든 것 및 기타 자료 참고 | 2023.04 | X:AI 4기 Basic |
+| 16 | DeepLab.v2 | CV | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) | 2023.05 | X:AI 4기 Basic |
+| 17 | Mask R-CNN | CV | [Mask R-CNN](https://arxiv.org/abs/1703.06870) | 2023.05 | X:AI 4기 Basic |
 
