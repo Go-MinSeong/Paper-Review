@@ -22,4 +22,6 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 15 | AutoEncoder | - | 오토인코더의 모든 것 및 기타 자료 참고 | 2023.04 | X:AI 4기 Basic |
 | 16 | DeepLab.v2 | CV | [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs](https://arxiv.org/abs/1606.00915) | 2023.05 | X:AI 4기 Basic |
 | 17 | Mask R-CNN | CV | [Mask R-CNN](https://arxiv.org/abs/1703.06870) | 2023.05 | X:AI 4기 Basic |
-
+| 18 | Style Gan | GAN | [Style Gan](https://arxiv.org/abs/1812.04948) | 2023.05 | X:AI 4기 Basic |
+| 19 | Vision Transformer | CV | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | 2023.07 | X:AI 4기 Adv |
+| 20 | Taskonomy | CV | [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328) | 2023.07 | X:AI 4기 Adv |
