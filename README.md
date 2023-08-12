@@ -25,3 +25,7 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 18 | Style Gan | GAN | [Style Gan](https://arxiv.org/abs/1812.04948) | 2023.05 | X:AI 4기 Basic |
 | 19 | Vision Transformer | CV | [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) | 2023.07 | X:AI 4기 Adv |
 | 20 | Taskonomy | CV | [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328) | 2023.07 | X:AI 4기 Adv |
+| 21 | RegNet | CV | [RegNet : Self-Regulated Network for Image Classification](https://arxiv.org/abs/2101.00590) | 2023.07 | X:AI 4기 Adv |
+| 22 | DETR | CV | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) | 2023.08 | X:AI 4기 Adv |
+| 23 | ConvNeXt | CV | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) | 2023.08 | X:AI 4기 Adv |
+| 24 | DDPM | CV | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2023.08 | X:AI 4기 Adv |
