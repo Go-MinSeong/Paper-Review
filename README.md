@@ -29,3 +29,4 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 22 | DETR | CV | [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) | 2023.08 | X:AI 4기 Adv |
 | 23 | ConvNeXt | CV | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) | 2023.08 | X:AI 4기 Adv |
 | 24 | DDPM | CV | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2023.08 | X:AI 4기 Adv |
+| 25 | Dalle | CV | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) | 2023.08 | X:AI 4기 Adv |
