@@ -30,4 +30,4 @@ AI 관련 논문을 읽고, 만든 리뷰입니다.
 | 23 | ConvNeXt | CV | [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545) | 2023.08 | X:AI 4기 Adv |
 | 24 | DDPM | CV | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2023.08 | X:AI 4기 Adv |
 | 25 | Dalle | CV | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) | 2023.08 | X:AI 4기 Adv |
-| 26 | DiffBIR | CV | [Towards Blind Image Restoration with Generative Diffusion Prior]([https://arxiv.org/abs/2102.12092](https://arxiv.org/pdf/2308.15070v1.pdf) | 2023.11 | NextLab 인턴 |
+| 26 | DiffBIR | CV | [Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2102.12092](https://arxiv.org/pdf/2308.15070v1.pdf) | 2023.11 | NextLab 인턴 |
